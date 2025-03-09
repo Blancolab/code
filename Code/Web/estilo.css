@@ -1,0 +1,11 @@
+/*estilo general para la pagina*/
+body{
+    font-family: Arial, sans-serif;
+}
+
+.logo {
+    color: goldenrod;
+    border: 1px ridge #f00;
+    background-color: aqua;
+    padding: 10x 10000px 20px;
+}
